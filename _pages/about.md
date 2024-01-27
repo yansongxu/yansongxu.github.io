@@ -26,6 +26,7 @@ My current research interests are at the intersection of autonomous driving syst
 
 # 🔥 News
 - *2024.01*: &nbsp;🎉🎉 One paper is accepted by IEEE TVLSI. 
+- *2023.11*: &nbsp;🎉🎉 One paper is accepted by IEEE TNANO. 
 - *2023.07*: &nbsp;🎉🎉 One paper is accepted by ICCAD 2023. 
 - *2023.02*: &nbsp;🎉🎉 One paper is accepted by DAC 2023. 
 
