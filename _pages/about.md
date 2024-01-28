@@ -19,7 +19,7 @@ redirect_from:
 
 I'm a Ph.D candidate for Electrical Science and Technology at the Department of Micro/Nano Electronics, Shanghai Jiao Tong University, Shanghai, China, and under the supervision of Professor Guanghui He. 
 
-My current research interests are at the intersection of autonomous driving system, digital circuits and systems. The current focus is efficient ASIC design for AI applications like BEV perception, point cloud processing and massive MIMO wireless detector, and emerging computing paradigm design like stochastic computing circuit design and  <a href='https://scholar.google.com/citations?user=K1JGQBIAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+My current research interests are at the intersection of autonomous driving system, digital circuits and systems. The current focus is efficient ASIC design for AI applications like BEV perception, point cloud processing and massive MIMO wireless detector, and emerging computing paradigm design like stochastic computing circuit design (<a href='https://scholar.google.com/citations?user=K1JGQBIAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>) (<a href='https://scholar.google.com/citations?user=4FA6C0AAAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Flvdongxu%2Flvdongxu.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
@@ -27,8 +27,8 @@ My current research interests are at the intersection of autonomous driving syst
 # 🔥 News
 - *2024.01*: &nbsp;🎉🎉 One paper is accepted by IEEE TVLSI. 
 - *2023.11*: &nbsp;🎉🎉 One paper is accepted by IEEE TNANO. 
-- *2023.07*: &nbsp;🎉🎉 One paper is accepted by ICCAD 2023. 
-- *2023.02*: &nbsp;🎉🎉 One paper is accepted by DAC 2023. 
+- *2023.07*: &nbsp;🎉🎉 One paper is accepted by ICCAD 2023. See you in San Francisco, US! 
+- *2023.02*: &nbsp;🎉🎉 One paper is accepted by DAC 2023. See you in San Francisco, US!
 
 # 📝 Publications 
 
