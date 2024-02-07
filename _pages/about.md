@@ -25,9 +25,10 @@ My current research interests are at the intersection of autonomous driving syst
 
 
 # 🔥 News
-- *2024.02*: &nbsp;🎉   Our TVLSI'24 paper is appeared on the [IEEE Xplorer](https://ieeexplore.ieee.org/document/10416684). 
+- *2024.02*: &nbsp;🎉🎉 One co-authored paper about *data compression engine for NN processors* is accepted by IEEE TCAS-II. Congratulations to Yuzhou !!!
+- *2024.01*: &nbsp;🎉🎉 Our TVLSI'24 paper is appeared on the [IEEE Xplorer](https://ieeexplore.ieee.org/document/10416684). 
 - *2024.01*: &nbsp;🎉🎉 One paper is accepted by IEEE TVLSI. 
-- *2023.11*: &nbsp;🎉🎉 One paper is accepted by IEEE TNANO. 
+- *2023.11*: &nbsp;🎉🎉 One co-authored paper is accepted by IEEE TNANO. Congratulations to Aokun !!!
 - *2023.07*: &nbsp;🎉🎉 One paper is accepted by ICCAD 2023. See you in San Francisco, US! 
 - *2023.02*: &nbsp;🎉🎉 One paper is accepted by DAC 2023. See you in San Francisco, US!
 
@@ -76,6 +77,7 @@ My current research interests are at the intersection of autonomous driving syst
 ## Full Pub List
 
 ### Efficient Hardware Accelerators for AI Computing (Jan. 2022 -- Present)
+- ``TCAS-II 2024`` [A Broad-Spectrum and High-Throughput Compression Engine for Neural Network Processors](), Yuzhou Chen, Jinming Zhang, **Dongxu Lyu**, Zhenyu Li, Guanghui He, in *IEEE Transactions on Circuits and Systems II: Express Briefs*.
 - ``TVLSI 2024`` [FLNA: Flexibly Accelerating Feature Learning Networks for Large-Scale Point Clouds with Efficient Dataflow Decoupling](https://ieeexplore.ieee.org/document/10416684), **Dongxu Lyu**$^{\ddagger}$, Zhenyu Li$^{\ddagger}$, Yuzhou Chen, Gang Wang, Weifeng He, Ningyi Xu, Guanghui He ($^{\ddagger}$: equal contribution), in *IEEE Transactions on Very Large Scale Integration (VLSI) Systems*.
 - ``ICCAD 2023`` [SpOctA: A 3D Sparse Convolution Accelerator with Octree-Encoding-Based Map Search and Inherent Sparsity-Aware Processing](https://ieeexplore.ieee.org/document/10323728), **Dongxu Lyu**, Zhenyu Li, Yuzhou Chen, Jinming Zhang, Ningyi Xu, Guanghui He, *2023 IEEE/ACM International Conference on Computer Aided Design (ICCAD)*, San Francisco, CA, USA, 2023, pp. 1-9.
 - ``DAC 2023`` [FLNA: An Energy-Efficient Point Cloud Feature Learning Accelerator with Dataflow Decoupling](https://ieeexplore.ieee.org/abstract/document/10247674), **Dongxu Lyu**, Zhenyu Li, Yuzhou Chen, Ningyi Xu, Guanghui He, *2023 60th ACM/IEEE Design Automation Conference (DAC)*, San Francisco, CA, USA, 2023, pp. 1-6.
