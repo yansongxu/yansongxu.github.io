@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Dongxu Lyu"
-description              : "4-year Ph.D candidate in School of Electronic Information and Electrical Engineering"
-repository               : "lvdongxu/lvdongxu.github.io"
+title                    : "Yansong Xu"
+description              : "2-year Master candidate in School of Electronic Information and Electrical Engineering"
+repository               : "yansongxu/yansongxu.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -21,15 +21,15 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Dongxu Lyu (吕东旭)"
-  avatar           : "images/dongxulyu.jpg"
+  name             : "Yansong Xu (徐彦松)"
+  avatar           : "images/yansongxu.jpg"
   bio              : "Shanghai Jiao Tong University"
   location         : "Shanghai, China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=K1JGQBIAAAAJ&hl=en"
-  email            : "lvdongxu@sjtu.edu.cn"
-  researchgate     : "https://www.researchgate.net/profile/Dongxu-Lyu"
+  googlescholar    : 
+  email            : "xys-13@sjtu.edu.cn"
+  researchgate     : 
   uri              :
   bitbucket        :
   codepen          :
@@ -37,15 +37,15 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "lvdongxu"
+  github           : "yansongxu"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "东旭-吕-1274561b0"
+  linkedin         : # "东旭-吕-1274561b0"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
-  orcid            : "https://orcid.org/my-orcid?orcid=0000-0001-6826-2670"
+  orcid            : # "https://orcid.org/my-orcid?orcid=0000-0001-6826-2670"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
